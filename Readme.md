@@ -108,14 +108,6 @@ Production ML Systems
 
 ---
 
-# GitHub Philosophy
-
-> Simplicity is powerful.  
-> Reliable systems are invisible.  
-> Great engineering scales quietly.
-
----
-
 # Current Goals
 
 - Build production-grade cloud infrastructure  
@@ -123,21 +115,6 @@ Production ML Systems
 - Deep dive into Kubernetes & MLOps  
 - Create scalable AI-powered systems  
 - Secure a DevOps / Cloud / MLOps internship  
-
----
-
-# Connect
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | https://ravindu.cloud |
-| 💼 LinkedIn | https://www.linkedin.com/in/ravindudanthanarayana/ |
-| ✍️ Medium | https://medium.com/@ravindudanthanarayana |
-| 📧 Email | ravindu.danth@gmail.com |
-
-</div>
 
 ---
 
