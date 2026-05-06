@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ravindu
+# Ravindu Danthanarayana
 
 ### DevOps Engineer • Cloud Enthusiast • AI Systems Explorer
 
@@ -60,18 +60,56 @@ I continuously explore new technologies, build hands-on projects, and improve my
 
 ---
 
+# Technical Skills
+
+### DevOps & Cloud
+```txt
+Jenkins • Terraform • Ansible • Docker • Kubernetes
+AWS • Azure • Linux • Bash • GitHub Actions
+CI/CD • YAML • Prometheus • Grafana
+```
+
+### Version Control
+```txt
+Git • GitHub • GitLab • Bitbucket
+```
+
+### Databases
+```txt
+MySQL • MongoDB • PostgreSQL • Neo4j • OracleDB
+```
+
+### Programming Languages & Frameworks
+```txt
+Python • Java • JavaScript • TypeScript
+Node.js • Express.js • React.js • Next.js
+```
+
+### AI & Machine Learning
+```txt
+PyTorch • TensorFlow • Scikit-learn • Keras
+LangGraph • CNN • RNN • Matplotlib • Seaborn
+```
+
+### Collaboration & Productivity
+```txt
+ClickUp • Trello
+```
+
+---
+
 # Tech Stack
 
 ## Infrastructure & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,jenkins,ansible,bash,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,jenkins,ansible,bash,git,github,prometheus,grafana" />
 </p>
 
 ## Languages & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,nextjs,mysql,mongodb,postgres" />
 </p>
 
 ## Cloud & Platforms
@@ -108,13 +146,17 @@ Production ML Systems
 
 ---
 
-# Current Goals
+# Connect
 
-- Build production-grade cloud infrastructure  
-- Contribute to open-source projects  
-- Deep dive into Kubernetes & MLOps  
-- Create scalable AI-powered systems  
-- Secure a DevOps / Cloud / MLOps internship  
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | https://ravindu.cloud |
+| 💼 LinkedIn | https://www.linkedin.com/in/ravindudanthanarayana/ |
+| ✍️ Medium | https://medium.com/@ravindudanthanarayana |
+
+</div>
 
 ---
 
