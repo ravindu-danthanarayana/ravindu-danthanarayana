@@ -60,44 +60,6 @@ I continuously explore new technologies, build hands-on projects, and improve my
 
 ---
 
-# Technical Skills
-
-### DevOps & Cloud
-```txt
-Jenkins • Terraform • Ansible • Docker • Kubernetes
-AWS • Azure • Linux • Bash • GitHub Actions
-CI/CD • YAML • Prometheus • Grafana
-```
-
-### Version Control
-```txt
-Git • GitHub • GitLab • Bitbucket
-```
-
-### Databases
-```txt
-MySQL • MongoDB • PostgreSQL • Neo4j • OracleDB
-```
-
-### Programming Languages & Frameworks
-```txt
-Python • Java • JavaScript • TypeScript
-Node.js • Express.js • React.js • Next.js
-```
-
-### AI & Machine Learning
-```txt
-PyTorch • TensorFlow • Scikit-learn • Keras
-LangGraph • CNN • RNN • Matplotlib • Seaborn
-```
-
-### Collaboration & Productivity
-```txt
-ClickUp • Trello
-```
-
----
-
 # Tech Stack
 
 ## Infrastructure & DevOps
@@ -143,27 +105,3 @@ System Reliability
 Developer Experience
 Production ML Systems
 ```
-
----
-
-# Connect
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | https://ravindu.cloud |
-| 💼 LinkedIn | https://www.linkedin.com/in/ravindudanthanarayana/ |
-| ✍️ Medium | https://medium.com/@ravindudanthanarayana |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2d2d2d&height=120&section=footer"/>
-
-### Minimal • Scalable • Intentional
-
-</div>
