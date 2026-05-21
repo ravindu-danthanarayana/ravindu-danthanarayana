@@ -28,6 +28,18 @@ Building reliable infrastructure, intelligent systems, and scalable digital expe
 
 ---
 
+<div align="center">
+
+# ⚠️ Important Notice
+
+Due to losing access to my previous GitHub account, some of my earlier repositories and contributions may not appear on this profile.
+
+If you were a contributor to any previous project or require clarification, verification, or additional details regarding earlier work, please feel free to contact me directly.
+
+</div>
+
+---
+
 # About Me
 
 ```txt
