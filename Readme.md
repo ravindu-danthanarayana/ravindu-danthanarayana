@@ -7,7 +7,19 @@ DevOps Engineer • Cloud Enthusiast • AI Systems Explorer
 Building reliable infrastructure, intelligent systems, and scalable digital experiences.
 
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&duration=3000&pause=1200&color=A1A1AA&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+%26+Automation;DevOps+%7C+Kubernetes+%7C+Terraform;Exploring+AI+%2F+ML+Systems;Building+Scalable+Platforms" />
+
+Personal GitHub Account
+
+A significant portion of my projects, experiments, learning repositories, and earlier development work are maintained on my personal GitHub account.
+
+https://github.com/ravindudanthanarayana
+
+For a complete view of my work and contributions, please review both GitHub profiles.
+
+<br/>
+<a href="https://github.com/ravindudanthanarayana">
+  <img src="https://img.shields.io/badge/View_Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://ravindu.cloud/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
@@ -21,73 +33,29 @@ Building reliable infrastructure, intelligent systems, and scalable digital expe
 
 ⸻
 
-<div align="center">
-
-GitHub Accounts
-
-This profile showcases my professional work, cloud engineering projects, DevOps initiatives, and technical explorations.
-
-I also maintain a personal GitHub account where I share experiments, learning projects, and independent development work.
-
-Personal GitHub
-
-@ravindudanthanarayana
-
-🔗 https://github.com/ravindudanthanarayana
-
-Together, these accounts represent my continuous journey in software engineering, cloud technologies, automation, and AI systems.
-
-</div>
-
-⸻
-
 About Me
 
-Turning ideas into scalable systems through cloud,
-automation, and intelligent engineering.
+Cloud Infrastructure • DevOps • Kubernetes • Automation • AI Systems
 
-I’m an IT undergraduate passionate about modern infrastructure, cloud-native technologies, DevOps workflows, and AI-driven systems.
-
-I enjoy building systems that are not only functional, but also reliable, scalable, and thoughtfully engineered. My focus is on combining automation, infrastructure, and intelligent technologies to solve real-world problems.
-
-I continuously explore new technologies, build hands-on projects, and improve my understanding of production-grade systems.
+I’m an IT undergraduate focused on cloud-native technologies, DevOps practices, infrastructure automation, and AI-driven systems. My interests center around building scalable platforms, improving operational reliability, and exploring modern engineering approaches for production environments.
 
 ⸻
 
 Core Focus
 
-<div align="center">
-
 Domain	Focus
-☁️ Cloud	Scalable cloud infrastructure & architecture
-⚙️ DevOps	CI/CD pipelines, automation & deployment
-🐧 Systems	Linux, networking & reliability engineering
-🤖 AI/ML	Intelligent systems & MLOps workflows
-🔐 Infrastructure	IaC, containers & orchestration
-🚀 Engineering	Building production-ready platforms
-
-</div>
+Cloud Engineering	Scalable cloud infrastructure & architecture
+DevOps	CI/CD, automation & deployment
+Infrastructure	Containers, orchestration & IaC
+AI Systems	MLOps, LLMOps & intelligent platforms
+Reliability	Monitoring, observability & system performance
 
 ⸻
 
 Tech Stack
 
-Infrastructure & DevOps
-
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,jenkins,ansible,bash,git,github,prometheus,grafana" />
-</p>
-
-Languages & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,nextjs,mysql,mongodb,postgres" />
-</p>
-
-Cloud & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform,jenkins,ansible,python,java,javascript,typescript,nodejs,react,git,github,prometheus,grafana,mysql,postgres,mongodb" />
 </p>
 
 ⸻
@@ -96,20 +64,15 @@ Currently Exploring
 
 * Kubernetes Internals & Cluster Architecture
 * Terraform & Infrastructure as Code
-* MLOps & LLMOps Pipelines
+* MLOps & LLMOps
 * Distributed Systems Design
 * AI Infrastructure Engineering
-* Observability & Monitoring Systems
+* Observability & Reliability Engineering
 
 ⸻
 
-Engineering Interests
+Additional GitHub Profile
 
-Cloud Native Systems
-Platform Engineering
-AI Infrastructure
-Distributed Computing
-Automation at Scale
-System Reliability
-Developer Experience
-Production ML Systems
+Personal GitHub: https://github.com/ravindudanthanarayana
+
+Many repositories that represent my learning journey, experimental work, and personal projects are available there. Reviewing both GitHub profiles provides the most complete representation of my experience and contributions.
